@@ -23,7 +23,7 @@ class MainWindow(QMainWindow):
         sidebar.setGeometry(-3, -3, 400, 1100)
         sidebar.setStyleSheet("background-color: #2C2C2C;")
 
-        self.delete_button = QPushButton("Delete Note                       - ", self)
+        self.delete_button = QPushButton("Remove Note                       - ", self)
         self.delete_button.setGeometry(10, 600, 375, 70)
         self.delete_button.setStyleSheet(
         "background-color: #585858; "
