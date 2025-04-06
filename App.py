@@ -62,7 +62,7 @@ class MainWindow(QMainWindow):
         "background-color: #585858;"
         "border-radius: 10px; "
         "font-family: Roboto; "
-        "font-size: 25px; "
+        "font-size: 30px; "
         "color: white;"
         "font-weight: bold;")
 
